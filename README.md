@@ -4,7 +4,9 @@ Tarjeta digital de **Dostin Santana** (Logic Code Spot).
 
 ## URL de producción
 
-Tras el deploy en Vercel, la tarjeta queda en la URL pública del proyecto (ideal para QR / compartir).
+**https://presentation-card-zeta.vercel.app/**
+
+Úsala en QR / WhatsApp / Instagram para presentarte. GitHub: [Dostindev8/PresentationCard](https://github.com/Dostindev8/PresentationCard).
 
 ## Local
 
