@@ -1,0 +1,6 @@
+.vercel
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+_logo_b64.txt
